@@ -160,5 +160,15 @@ Sonu **".img"** ile biten dosyayı indirin:
 
 ---
 
+## Shutdown Scheduler
+- **Nedir?**  
+  Cihazın saat 16:30'da otomatik kapanmasını sağlayan bir yazılımdır.  
+- **Özellikleri:**  
+  - 16:20'de Aktiflik testi yapar. 
+  - Kapanma zamanına 20 Dakika ekleyebilme.
+  - Belirlenen saatte otomatik kapanma. 
+
+---
+
 # Sonuç
 Bu doküman, FAZ1 tahtaları için yazılım güncellemeleri ve araçlar hakkında rehber niteliğindedir. Unutmayın, bu işlemleri yapmadan önce riskleri göz önünde bulundurmalısınız.
