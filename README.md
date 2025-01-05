@@ -1,5 +1,5 @@
 > [!WARNING]
-> Bu işlemleri yaparak, FAZ1 Tahtanızın garantisini devre dışı bırakmış oluyorsunuz. 2009'da gelen bu tahtaların garantisinin devam etmediğini düşünsem de bunu göz önünde bulundurmanız gerekmektedir.
+> Bu işlemleri yaparak, FAZ1 Tahtanızın garantisini devre dışı bırakmış oluyorsunuz. 2010-2012 arasında verilen bu tahtaların garantisinin devam etmediğini düşünsem de bunu göz önünde bulundurmanız gerekmektedir.
 
 > [!CAUTION]
 > Bu işlemlerden dolayı tahtanıza, kendinize, okulunuza vb. oluşabilecek tüm zararlardan ve eksikliklerden firmamız ya da yapımcılar sorumluluk almamaktadır. FAZ1 dosyasını yükleyen herkes, tüm sorumlulukları kendi üstlendiğini kabul eder.
