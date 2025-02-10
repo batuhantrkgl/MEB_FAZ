@@ -42,6 +42,8 @@ Uygulamalar:
 - LocalSend
 - GeoGebra araçları
 
+---
+
 ### 1.0.0-PublicBeta
 İlk FAZ dosyamızdır. İçerdiği uygulamalar:
 - Chrome
@@ -51,12 +53,15 @@ Uygulamalar:
 - WinRAR
 - Office365
 - Antropi Teach Fatih
-
 Eksik kalan programlar, [buradan](https://github.com/batuhantrkgl/MEB_FAZ/releases/1.0.0-PublicBeta-Addons) indirilebilir. **1.0.1 Güncellemesi** ile ek uygulamalar sisteme dahil edilecektir.
 
 ---
 
 ## Changelogs (Değişiklikler)
+
+### ### 2.0.0-PublicBeta
+- **Tiny11Core tabanına geçildi.**
+- Yeni uygulamalar eklendi.
 
 ### 1.0.0-PublicBeta
 Serinin ilk sürümüdür; kayda değer bir değişiklik bulunmamaktadır.
@@ -65,9 +70,9 @@ Serinin ilk sürümüdür; kayda değer bir değişiklik bulunmamaktadır.
 
 ## İndirmeler
 
-### Son Sürüm: **1.0.0-PublicBeta**
+### Son Sürüm: **2.0.0-PublicBeta**
 Sonu **".img"** ile biten dosyayı indirin:  
-[GitHub Releases](https://github.com/batuhantrkgl/MEB_FAZ/releases/latest)
+[GitHub Releases](https://github.com/batuhantrkgl/MEB_FAZ/releases/2.0.0-PublicBeta)
 
 ---
 
