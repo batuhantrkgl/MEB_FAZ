@@ -4,21 +4,43 @@
 > [!CAUTION]
 > Bu işlemlerden dolayı tahtanıza, kendinize, okulunuza vb. oluşabilecek tüm zararlardan ve eksikliklerden firmamız ya da yapımcılar sorumluluk almamaktadır. FAZ1 dosyasını yükleyen herkes, tüm sorumlulukları kendi üstlendiğini kabul eder.
 
+> [!CAUTION]
+> Tiny11Core versiyonu, Windows 11'in en sadeleştirilmiş ve optimize edilmiş versiyonudur. Bu versiyonu kullananlar uyumsuzluk sorunlarından dolayı çıkabilecek sorunları kendi üstlendiğini kabul eder.
+
 ---
 
-# Windows 11
+# Windows 11 - Tiny11Core
 
 ### Neden Windows 11?
 - **Arayüz Avantajı:** Windows 11'in dokunmatik dostu arayüzü, Windows 10'a kıyasla daha erişilebilir.
 - **Destek Süresi:** Windows 10 desteği 2025 yılı içinde sona erecek.
 - **Uyumluluk:** Çoğu tahtaya SSD güncellemesi yapıldığı için, Windows 11'in sorunsuz çalışacağı kanaatine varılmıştır.
-
+- **Tiny11Core:** Windows 11'in en eski cihazlarda çalışması için optimize edilmiş topluluk sürümü.
 ---
 
 ## Versiyonlar
 
 > [!WARNING]
 > Paylaşılan versiyonların birçoğu yoğun yük testi yapılmadan sunulmuştur. Yeni versiyonlar, önceki sürümlerdeki sorunları çözmek ve performans iyileştirmeleri yapmak amacıyla yayınlanacaktır.
+
+### 2.0.0-PublicBeta
+**Tiny11Core tabanına geçildi.**
+
+Uygulamalar:
+- Chrome
+- Firefox
+- Adobe Acrobat
+- Fatih Kalem
+- StarBoard
+- 7-Zip
+- 7-Zip-ZSDT
+- WinRAR
+- Office365
+- VLC
+- Antropi Teach Fatih
+- Shutdown Scheduler
+- LocalSend
+- GeoGebra araçları
 
 ### 1.0.0-PublicBeta
 İlk FAZ dosyamızdır. İçerdiği uygulamalar:
@@ -172,3 +194,16 @@ Sonu **".img"** ile biten dosyayı indirin:
 
 # Sonuç
 Bu doküman, FAZ1 tahtaları için yazılım güncellemeleri ve araçlar hakkında rehber niteliğindedir. Unutmayın, bu işlemleri yapmadan önce riskleri göz önünde bulundurmalısınız.
+
+---
+# Geliştiriciler için Linkler:
+* 7z: https://www.7-zip.org/
+* 7z-zsdt: https://github.com/mcmilk/7-Zip-zstd
+* Office365: https://gravesoft.dev/office_c2r_links
+* WinRAR: https://www.rarlab.com/download.htm
+* Meb Sertifika: https://sertifika.meb.gov.tr/
+* Google Chrome: https://www.google.com/chrome/
+* Firefox: https://www.mozilla.org/en-US/firefox/new/
+* Fatih Kalem: https://cdnvideo.eba.gov.tr/fatihkalem/fatihkalem_setup.exe
+* GeoGebra: https://www.geogebra.org/download
+* VLC: https://www.videolan.org/
