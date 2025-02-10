@@ -59,7 +59,7 @@ Eksik kalan programlar, [buradan](https://github.com/batuhantrkgl/MEB_FAZ/releas
 
 ## Changelogs (Değişiklikler)
 
-### ### 2.0.0-PublicBeta
+### 2.0.0-PublicBeta
 - **Tiny11Core tabanına geçildi.**
 - Yeni uygulamalar eklendi.
 
